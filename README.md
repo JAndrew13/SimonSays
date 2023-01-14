@@ -3,7 +3,11 @@
 
 <!-- ABOUT SECTION -->
 
+
+
 This Simon Says game uses JS and HTML to create a playable in-browser game. In this project I was able to practice using functional JavaScript within the game.js file, as well as implement features like mp3 files, images, and event listeners into the games logic.
+
+<img src="https://github.com/JAndrew13/SimonSays/blob/main/simonsays.jpg" width="500">
 
 This game works by listening for specific user input to start, then randomly picking a color from an array. Once the color is selected, the game saves this selection into a 'gamePattern' variable before triggering temporary CSS changes to animate the selection.
 
