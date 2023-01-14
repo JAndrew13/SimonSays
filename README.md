@@ -51,7 +51,7 @@ At any point - if the user input doesnt match the stored sequence, the game trig
 <!-- DIRECTORY -->
 ## Directory
 
-### [/sounds](https://github.com/JAndrew13/)
+### [/sounds](https://github.com/JAndrew13/SimonSays/tree/main/sounds)
 Contains all audio files used in the web application
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
