@@ -15,6 +15,8 @@ Once a tile has been chosen, the game listens for user inputs and checks each bu
 
 At any point - if the user input doesnt match the stored sequence, the game triggers a failure, displays game over, and prompts the user to restart the game.
 
+Take a look at the [live project](https://simonsays.jakebrunner.com/)
+
 <!-- TABLE OF CONTENTS -->
   #### Table of contents
 + [Installation](#installation)
